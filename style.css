@@ -1,0 +1,22 @@
+.weather-container {
+        font-size: 30px;
+        text-align: center;
+        font-family: cursive;
+        font-style: oblique;
+        color: black;
+    }
+
+.weather {
+    font-size: 60px;
+    margin: 0;
+    font-family: cursive;
+    color: black;
+}
+
+.temp {
+    font-size: 60px;
+    margin : 0;
+    font-weight: bold;
+    font-family: times new roman;
+    color:blue;
+}
